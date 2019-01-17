@@ -1,6 +1,16 @@
 #Simple E-Library
 
-Pengaturan ODBC berada di Module1.vb
+<img src="https://github.com/defuj/Simple-E-Library---MyPerpus/tree/master/preview/Loading.JPG"></br>
+<img src="https://github.com/defuj/Simple-E-Library---MyPerpus/tree/master/preview/Home.JPG"></br>
+<img src="https://github.com/defuj/Simple-E-Library---MyPerpus/tree/master/preview/Home after login.JPG"></br>
+<img src="https://github.com/defuj/Simple-E-Library---MyPerpus/tree/master/preview/Pembuatan Akun.JPG"></br>
+<img src="https://github.com/defuj/Simple-E-Library---MyPerpus/tree/master/preview/Pengaturan.JPG"></br>
+<img src="https://github.com/defuj/Simple-E-Library---MyPerpus/tree/master/preview/Anggota Perpus.JPG"></br>
+<img src="https://github.com/defuj/Simple-E-Library---MyPerpus/tree/master/preview/Buku.JPG"></br>
+<img src="https://github.com/defuj/Simple-E-Library---MyPerpus/tree/master/preview/Pinjaman.JPG"></br>
+<img src="https://github.com/defuj/Simple-E-Library---MyPerpus/tree/master/preview/Pengembalian Buku.JPG"></br>
+
+#Pengaturan ODBC berada di Module1.vb
 -nama db : perpustakaan
 -server : 127.0.0.1
 
