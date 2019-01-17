@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/defuj/Simple-E-Library---MyPerpus/master/preview/Anggota%20Perpus.JPG"></br>
 <img src="https://raw.githubusercontent.com/defuj/Simple-E-Library---MyPerpus/master/preview/Buku.JPG"></br>
 <img src="https://raw.githubusercontent.com/defuj/Simple-E-Library---MyPerpus/master/preview/Pinjaman.JPG"></br>
-<img src="https://raw.githubusercontent.com/defuj/Simple-E-Library---MyPerpus/master/preview/Pengembalian Buku.JPG"></br>
+<img src="https://raw.githubusercontent.com/defuj/Simple-E-Library---MyPerpus/master/preview/Pengembalian buku.JPG"></br>
 
 #Pengaturan ODBC berada di Module1.vb
 -nama db : perpustakaan
