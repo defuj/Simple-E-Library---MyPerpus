@@ -1,7 +1,7 @@
 #Simple E-Library
 
 <img src="https://raw.githubusercontent.com/defuj/Simple-E-Library---MyPerpus/master/preview/Loading.JPG"></br>
-<img src="https://raw.githubusercontent.com/defuj/Simple-E-Library---MyPerpus/master/preview/Home.JPG"></br>
+<img src="https://raw.githubusercontent.com/defuj/Simple-E-Library---MyPerpus/master/preview/home.JPG"></br>
 <img src="https://raw.githubusercontent.com/defuj/Simple-E-Library---MyPerpus/master/preview/Home after login.JPG"></br>
 <img src="https://raw.githubusercontent.com/defuj/Simple-E-Library---MyPerpus/master/preview/Pembuatan Akun.JPG"></br>
 <img src="https://raw.githubusercontent.com/defuj/Simple-E-Library---MyPerpus/master/preview/Pengaturan.JPG"></br>
